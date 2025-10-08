@@ -25,7 +25,7 @@ Esta é uma API simples criada com [FastAPI], que retorna informações básicas
 📁 Estrutura da API
 
 
-vendas{
+      {
       1: {"item": "refrigerante lata", "preco_unitario": 4, "quantidade": 5},
       2: {"item": "agua 2L", "preco_unitario": 15, "quantidade": 5},
       3: {"item": "suco 1L", "preco_unitario": 8, "quantidade": 2},
