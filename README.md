@@ -38,12 +38,22 @@ Esta é uma API simples criada com [FastAPI], que retorna informações básicas
 # Comandos utilizados do git.
 
 git init - iniciar novo projeto.
+
 git add  - adiciona arquivos.
+
 git commit -m "commit" - commit os arquivos no histórico.
+
 git merge - merge de ramificações.
+
 git branch - mostra branch atual.
+
 git checkout - muda pra essa branch.
+
 git branch -b - cria uma nova branch.
+
 git remote add - adiciona novo repositório remoto.
+
 git push - manda nossas alterações locais para o repositório remoto.
+
 git pull - pega as alterações do repositório remoto e joga pra nossa maquina.
+
