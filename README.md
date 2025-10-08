@@ -11,7 +11,7 @@ Esta é uma API simples criada com [FastAPI], que retorna informações básicas
 
 ### ✅ Pré-requisitos
 
-- Python 3.8+
+- Python 
 - Instalar: pip install fastapi uvicorn
 
 # ▶️ Rodando o servidor localmente
